@@ -46,8 +46,8 @@ Este repositório contém projetos acadêmicos, exercícios e anotações do meu
 
 | Projeto | Demonstração | Descrição | Tecnologias |
 |---------|--------------|-----------|------------|
-| **[GTA5](https://github.com/josias-silva01/progeto-GTA5)** | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY3B6Z3V1OGV1dWQ5Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Zw/giphy.gif" width="200" alt="Demo GTA5"> | Clone da página inicial de GTA5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) |
-| **[SnakeGame](https://github.com/josias-silva01/SnakeGame)** | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY3B6Z3V1OGV1dWQ5Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Zw/giphy.gif" width="200" alt="Demo Snake Game"> | Jogo da cobrinha em Java | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
+| **[GTA5 Clone](https://github.com/josias-silva01/progeto-GTA5)** | <img src="https://github.com/josias-silva01/progeto-GTA5/raw/main/assets/gta5-demo.gif?raw=true" width="400" alt="Demo do projeto GTA5"> | Clone da página inicial de GTA5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) |
+| **[SnakeGame](https://github.com/josias-silva01/SnakeGame)** | <img src="https://github.com/josias-silva01/SnakeGame/blob/main/Jogo%20da%20cobrinha/assets/Anima%C3%A7%C3%A3o.gif" width="200"> | Jogo da cobrinha em Java | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) |
 | **[Wide-Coverage](https://github.com/josias-silva01/wide-coverage)** | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY3B6Z3V1OGV1dWQ5Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Zw/giphy.gif" width="200" alt="Demo Wide Coverage"> | Página responsiva | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) |
   
 ---
